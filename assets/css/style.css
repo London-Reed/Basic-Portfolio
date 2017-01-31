@@ -1,0 +1,64 @@
+#wrapper{
+	width: 960px;
+	position: relative;
+	overflow: hidden;
+}
+
+#main-body{
+	width: 650px;
+	background-color: #EBEBEB;
+	border-color: #dddddd;
+	
+}
+
+#connect-with-me{
+	width: 270px;
+	height: 270px;
+	float: right;
+	background-color: #ffffff;
+	clear: both;
+	
+}
+
+#header{
+	background-color: #ffffff;
+	border-color: #cccccc;
+	margin: 5px;
+	padding: 5px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+
+
+#logo{
+	float:left;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	margin: 5px;
+	padding: 5px;
+}
+
+#nav-bar li a{
+	float: right;
+	display: inline;
+	text-decoration: none;
+
+}
+
+#about-me{
+	background-color: #ffffff;
+	float: left;
+	margin: 5px;
+	padding: 5px;
+}
+
+p{
+	
+}
+
+.profile-pic{
+	width: 200px;
+	height: 200px;
+	float: left;
+	
+}
