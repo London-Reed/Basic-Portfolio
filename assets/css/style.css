@@ -1,3 +1,5 @@
+
+
 #wrapper{
 	width: 960px;
 	position: relative;
@@ -6,18 +8,26 @@
 
 #main-body{
 	width: 650px;
-	background-color: #EBEBEB;
+	background-color: #EDEDED; 
 	border-color: #dddddd;
+	padding: 30px 270px 90px 50px;
+	overflow: auto;
+
 	
 }
 
 #connect-with-me{
 	width: 270px;
-	height: 270px;
+	height: 100px;
 	float: right;
 	background-color: #ffffff;
-	clear: both;
 	
+
+}
+
+.social-media{
+	width: 50px;
+	height: 50px;
 }
 
 #header{
@@ -48,17 +58,19 @@
 #about-me{
 	background-color: #ffffff;
 	float: left;
-	margin: 5px;
-	padding: 5px;
+	margin: 20px 50px 20px 30px;
+	padding: 15px;
+	position: relative;
 }
 
 p{
-	
+	position: relative;
 }
 
 .profile-pic{
 	width: 200px;
 	height: 200px;
 	float: left;
+	position: relative;
 	
 }
