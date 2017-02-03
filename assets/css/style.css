@@ -30,8 +30,9 @@ body{
 }
 
 h1{
-	padding: 20px;
+	padding: 1rem 0rem 0rem 1rem;
 	font-size: 2em;
+
 }
 
 #nav-bar li a{
@@ -43,7 +44,7 @@ h1{
 }
 
 ul{
-	margin-right: 17rem;
+	margin: 3rem 17rem 0rem 0rem;
 	
 }
 
@@ -54,6 +55,7 @@ ul{
 	height: 400px;
 	background-color: #F2F2F2;
 	border-color: black;
+	margin-top: 1rem;
 
 }
 
@@ -63,7 +65,7 @@ ul{
 	position: absolute;
 	height: 300px;
 	width: 500px;
-	margin: 4rem;
+	margin: 2rem 0rem 0rem 4rem;
 	padding: 15px;
 }
 
